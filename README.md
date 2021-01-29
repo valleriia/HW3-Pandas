@@ -1,6 +1,15 @@
 # Pandas
 # Unit 4 Homework Assignment: A Whale Off the Port(folio)
 
+First part (#Conduct-Quantitative-Analysis) seems to be ok. In second part (#Create-a-Custom-Portfolio) I had some issues, especially - "Calculate and Plot Rolling 60-day Beta for Your Portfolio compared to the S&P 500" plot looks starange to me, but I couldn't figure out myself. Please, see picture bellow:
+
+![Calculate and Plot Rolling 60-day Beta for Your Portfolio compared to the S&P 500](Images/2.png)
+
+# Result:
+![Result](Images/3.png)
+
+
+
 ![Portfolio Analysis](Images/portfolio-analysis.png)
 
 ## Background
